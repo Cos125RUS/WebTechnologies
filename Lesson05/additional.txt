@@ -1,0 +1,21 @@
+Если интересуетесь Linux-системами, советую посмотреть в сторону дистрибутива manjaro linux: 
+https://manjaro.ru/
+
+Есть и другие варианты, дистрибутив linux mint (на основе debian): 
+https://www.linuxmint.com/download_lmde.php
+
+Выбрать linux самостоятельно
+https://www.youtube.com/results?search_query=linux+%D0%B4%D0%BB%D1%8F+%D0%B4%D0%B5%D1%81%D0%BA%D1%82%D0%BE%D0%BF%D0%B0
+https://www.youtube.com/results?search_query=linux+%D0%B4%D0%BB%D1%8F+%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%BE%D0%B2
+
+Virtual box (для того чтобы поставить операционную систему виртуально): 
+https://www.virtualbox.org/
+
+Расширение для vscode для отправки http запросов: 
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+Тестирование API c postman: 
+https://www.youtube.com/watch?v=zfrQtU8eCEo
+
+Здесь можно посмотреть пример API и запросов к нему: 
+https://reqres.in/
